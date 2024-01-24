@@ -5,7 +5,7 @@
  </p>
 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **NodeJs, ExpressJs, Javascript, Databases**
 
