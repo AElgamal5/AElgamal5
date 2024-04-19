@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elgamal</h1>
-<h3 align="center">Software Engineer | Backend Developer</h3>
+<h3 align="center">Software Engineer | Backend Engineer</h3>
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=AElgamal5&label=Profile%20views&color=0e75b6&style=flat" alt="AElgamal5" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/AElgamal5"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/AElgamal5">
  </p>
@@ -32,4 +32,5 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=AElgamal5&show_icons=true" />
 </picture>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AElgamal5&theme=dark" alt="GitHub Streak" /></a>
 </p>
