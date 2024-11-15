@@ -33,5 +33,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AElgamal5&show_icons=true" />
 </picture>
  <img src="https://streak-stats.demolab.com?user=AElgamal5&theme=dark" alt="GitHub Streak" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AElgamal5&theme=dark" alt="GitHub Streak" />
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AElgamal5&theme=dark" alt="GitHub Streak" /> -->
 </p>
